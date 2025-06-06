@@ -1,6 +1,10 @@
 # Big Data Hands-On mini-project: MapReduce & Spark
 
-This repository showcases hands-on big data analytics using both Hadoop MapReduce (with Python MRJob) and Apache Spark (PySpark). The projects were developed as part of my MSc in Data Science Big Data coursework and demonstrate practical analytics on two real-world datasets:
+This repository showcases hands-on big data analytics using both Hadoop MapReduce (with Python MRJob) and Apache Spark (PySpark). The projects were developed as part of my MSc in Data Science Big Data coursework to gain practical experience.
+
+![Spark Sample Output Table](images/spark_table.png)
+
+I experimented with practical analytics on two real-world datasets:
 
 - **Car Sales Transactions** ([Kaggle Dataset](https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data))
 - **Techcrunch Blog Posts (2010)** ([Kaggle Dataset](https://www.kaggle.com/datasets/lakritidis/identifying-influential-bloggers-techcrunch))
